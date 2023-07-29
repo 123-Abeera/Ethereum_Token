@@ -7,4 +7,4 @@ Simple Ethereum Token
 1) How to write and modify the smart contract using OpenZeppelin and Remix
 2) Get free Goerli ETH using https://goerlifaucet.com/
 3) Deploy it on the Ethereum Goerli testnet blockchain to save on gas fees
-4) See your Transaction hash
+4) See your Transaction hash.
